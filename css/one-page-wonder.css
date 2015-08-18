@@ -1,0 +1,480 @@
+/*!
+ * Start Bootstrap - One Page Wonder HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+/*start of grafted code*/
+
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+    outline: 0;
+    color: #18bc9c;
+}
+@media(min-width:768px) {
+    .navbar-fixed-top {
+        padding: 25px 0;
+        -webkit-transition: padding .3s;
+        -moz-transition: padding .3s;
+        transition: padding .3s;
+    }
+
+
+.navbar-fixed-top .navbar-brand {
+        font-size: 2em;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+    }
+
+    .navbar-fixed-top.navbar-shrink {
+        padding: 10px 0;
+    }
+
+    .navbar-fixed-top.navbar-shrink .navbar-brand {
+        font-size: 1.5em;
+    }
+}
+
+.navbar {
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    background-color: #000000;
+}
+
+.navbar a:focus {
+    outline: 0;
+}
+
+.navbar .navbar-nav {
+    letter-spacing: 1px;
+}
+
+.navbar .navbar-nav li a:focus {
+    outline: 0;
+}
+
+.navbar-default,
+.navbar-inverse {
+    border: 0;
+}
+/*end of grafted code*/
+
+body {
+    margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+#collegeprep{
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('https://36.media.tumblr.com/46e7ccdaaf8fd0ed5fb8ab7020bf6cf1/tumblr_myfvjh6x4q1qgn3xuo1_1280.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#collegeprep h1{
+    color: #FFFFFF;
+}
+#top1
+{
+    padding: 0px;
+    background-color: #343435;
+}
+#top{
+    float: none;
+    margin: 0 auto;
+    display: table;
+    table-layout: fixed;
+    font-size: 30px;
+
+}
+.headline {
+    padding: 120px 0;
+}
+
+.headline h1 {
+    font-size: 130px;
+    color: #000000;
+    background: rgba(255,255,255,0);
+}
+
+.headline h2 {
+    font-size: 77px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+}
+
+#fresh
+{
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('http://i.huffpost.com/gen/1303298/images/o-SCHOOL-SUPPLIES-facebook.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;  
+}
+
+/*http://40.media.tumblr.com/tumblr_lwout22GRN1qfb46yo1_500.jpg*/
+
+#fresh h1
+{
+    color: #FFFFFF
+}
+
+#F1{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+#soph
+{
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('http://sharonchin.com/wp-content/uploads/2013/06/tumblr_mp5evkAzqX1rdakb2o2_1280.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;  
+}
+
+/*http://31.media.tumblr.com/tumblr_m83s13GsWI1ruqpfbo1_1280.jpg
+http://i.huffpost.com/gen/1680032/images/o-CLASSROOM-facebook.jpg
+http://sharonchin.com/wp-content/uploads/2013/06/tumblr_mp5evkAzqX1rdakb2o2_1280.jpg
+*/
+
+#soph h1
+{
+    color: #FFFFFF
+}
+
+#overalladvice
+{
+    font-size: 18px;
+}
+
+#fallSoph
+{
+    font-size: 20px;
+}
+
+#FS
+{
+    margin-left:400px;
+} 
+
+#winterSoph
+{
+    font-size: 20px;
+}
+
+#sophWinter
+{
+    height: 400px;
+    width: 400px;
+    border-radius: 400px;
+}
+
+#sophWinter
+{
+
+}
+
+#springSoph
+{
+    font-size: 20px;
+}
+
+#SpringS
+{
+    margin-left: 755px;
+} 
+
+
+#summerSoph
+{
+    font-size: 20px;
+}
+
+#junior
+{
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url("http://i24.photobucket.com/albums/c16/Ashley_Li/junior%20year_zpsxtcmum8f.jpg") no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover; 
+}
+
+#junior h1
+{
+    color: #FFFFFF;
+}
+
+#juniorOA
+{
+    font-size: 20px;
+}
+
+#JOA 
+{
+    margin-left: 500px;
+}
+
+#juniorFall
+{
+    font-size: 20px;
+}
+
+#juniorWinter
+{
+    font-size: 20px;
+}
+
+#winterJunior
+{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+}
+
+#JW
+{
+    margin-left: 400px;
+} 
+
+#juniorSpring
+{
+    font-size: 20px;
+}
+
+
+#juniorSummer
+{
+    font-size: 20px;
+}
+
+#JS
+{
+    margin-left: 500px;
+}
+
+
+
+
+#senior
+{
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url("http://profilerehab.com/facebook_covers/graduation/graduation_hats_flying_cover_1.jpg") no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover; 
+}
+
+#senior h1
+{
+    color: #FFFFFF;
+}
+
+#seniorOA
+{
+    font-size: 20px;
+}
+
+#OAsenior
+{
+    /*width: 400px;
+    height: 400px;*/
+    border-radius: 70%;
+}
+
+
+#seniorFall
+{
+    font-size: 20px;
+}
+
+#SF
+{
+    margin-left: 600px;
+} 
+
+#seniorWinter
+{
+    font-size: 20px;
+}
+
+
+
+#seniorSpring
+{
+    font-size: 20px;
+}
+
+#SS
+{
+    margin-left: 500px;
+} 
+
+#seniorSummer
+{
+    font-size: 20px;
+}
+
+.featurette-divider {
+    margin: 40px 0;
+}
+
+.featurette {
+    overflow: hidden;
+    margin: 15px;
+    padding: 15px;
+}
+
+.featurette-image.pull-left {
+    margin-right: 40px;
+}
+
+.featurette-image.pull-right {
+    margin-left: 40px;
+}
+
+.featurette-heading {
+    font-size: 50px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+@media(max-width:1200px) {
+    .headline h1 {
+        font-size: 140px;
+    }
+
+    .headline h2 {
+        font-size: 63px;
+    }
+
+    .featurette-divider {
+        margin: 50px 0;
+    }
+
+    .featurette-image.pull-left {
+        margin-right: 20px;
+    }
+
+    .featurette-image.pull-right {
+        margin-left: 20px;
+    }
+
+    .featurette-heading {
+        font-size: 35px;
+    }
+}
+
+@media(max-width:991px) {
+    .headline h1 {
+        font-size: 105px;
+    }
+
+    .headline h2 {
+        font-size: 50px;
+    }
+
+    .featurette-divider {
+        margin: 40px 0;
+    }
+
+    .featurette-image {
+        max-width: 50%;
+    }
+
+    .featurette-image.pull-left {
+        margin-right: 10px;
+    }
+
+    .featurette-image.pull-right {
+        margin-left: 10px;
+    }
+
+    .featurette-heading {
+        font-size: 30px;
+    }
+}
+
+@media(max-width:768px) {
+    .container {
+        margin: 0 15px;
+    }
+
+    .featurette-divider {
+        margin: 40px 0;
+    }
+
+    .featurette-heading {
+        font-size: 25px;
+    }
+}
+
+@media(max-width:668px) {
+    .headline h1 {
+        font-size: 70px;
+    }
+
+    .headline h2 {
+        font-size: 32px;
+    }
+
+    .featurette-divider {
+        margin: 30px 0;
+    }
+}
+
+@media(max-width:640px) {
+    .headline {
+        padding: 75px 0 25px 0;
+    }
+
+    .headline h1 {
+        font-size: 60px;
+    }
+
+    .headline h2 {
+        font-size: 30px;
+    }
+}
+
+@media(max-width:375px) {
+    .featurette-divider {
+        margin: 10px 0;
+    }
+
+    .featurette-image {
+        max-width: 100%;
+    }
+
+    .featurette-image.pull-left {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .featurette-image.pull-right {
+        margin-bottom: 10px;
+        margin-left: 0;
+    }
+}
