@@ -15,6 +15,15 @@ a.active {
 #topmost
 {
     background-color: #000000;
+    padding: 0px;
+}
+#top{
+    float: none;
+    margin: 0 auto;
+    display: table;
+    table-layout: fixed;
+    font-size: 30px;
+
 }
 #topnavbar
 {
