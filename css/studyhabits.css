@@ -10,8 +10,9 @@
  a:active,
  a.active {
      outline: 0;
-     color: #fff;
+     color: #b6dcff;
  }
+ /*99c5d2*/
 
 body {
     margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */

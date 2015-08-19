@@ -11,7 +11,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #fff;
+    color: #92b9c5;
 }
 @media(min-width:768px) {
     .navbar-fixed-top {
