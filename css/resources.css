@@ -42,7 +42,7 @@ a.active {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
-    background-color: #2c3e50;
+    background-color: #000000;
 }
 
 .navbar a:focus {
@@ -135,7 +135,7 @@ body
     display: block;
     width: 100%;
     text-align: center;
-    background: url('https://c1.staticflickr.com/7/6199/6153019139_8b5d15419e_b.jpg') no-repeat center center scroll;
+    background: url('http://i24.photobucket.com/albums/c16/Ashley_Li/15823-vintage-library-1920x1200-photography-wallpaper_zpso6abdgfw.jpg') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -183,8 +183,11 @@ body
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    background: url('http://40.media.tumblr.com/0b7327140d6fbf180e3f4f8921d2ece1/tumblr_nchopsZZQf1tcpjo1o1_1280.jpg') no-repeat center center scroll;
+    background: url('http://4.bp.blogspot.com/-W6dtzBoeVxc/VN88Y_DQM7I/AAAAAAAAAtA/kP9kuDjb_Ts/s1600/IMG_0704.png') no-repeat center center scroll;
 }
+
+
+
 #prodheader
 {
     font-size: 180px;
