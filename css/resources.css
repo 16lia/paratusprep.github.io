@@ -3,7 +3,8 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-/*start of grafted code
+/*start of grafted code*/
+
 a,
 a:hover,
 a:focus,
@@ -11,7 +12,7 @@ a:active,
 a.active {
     outline: 0;
     color: #fff;
-}*/
+}
 
 
 @media(min-width:768px) {
