@@ -20,12 +20,17 @@ p.small {
 }
 
 a,
-a:hover,
 a:focus,
+a:hover,
 a:active,
 a.active {
     outline: 0;
-    color: #18bc9c;
+    color: #FFFFFF;
+}
+
+a:hover
+{
+    color: #FFFFFF;
 }
 
 h1,
@@ -155,7 +160,7 @@ header .intro-text .skills {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
-    background-color: #233140;
+    background-color: #909090;
 }
 
 .navbar a:focus {
@@ -197,7 +202,7 @@ section.success a:focus,
 section.success a:active,
 section.success a.active {
     outline: 0;
-    color: #fff;
+    color: #FFFFFF;
 }
 
 @media(max-width:767px) {
