@@ -15,7 +15,7 @@ a.active {
 
 #topnavbar
 {
-    font-size: 14px;
+    font-size: 10px;
 }
 @media(min-width:768px) {
     .navbar-fixed-top {
@@ -375,10 +375,62 @@ footer {
     }
 }
 
+#SAT1
+{
+    font-size: 20px;
+}
 
+#SAT2
+{
+    font-size: 20px;
+}
 
-#enlarge{
-    font-size:20px;
+#SAT3
+{
+    font-size: 20px;
+}
+
+#Subj1
+{
+    font-size: 20px;
+}
+
+#ACT1
+{
+    font-size: 20px;
+}
+
+#TOFEL1
+{
+    font-size: 20px;
+}
+
+#TOEIC1
+{
+    font-size: 20px;
+}
+
+#IELTS1
+{
+    font-size: 20px;
+}
+
+#GED1
+{
+    font-size: 20px;
+}
+#GED2
+{
+    font-size: 20px;
+}
+
+#GED3
+{
+    font-size: 20px;
+}
+#GED4
+{
+    font-size: 20px;
 }
 
 
