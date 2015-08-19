@@ -142,6 +142,13 @@ body
     -o-background-size: cover;
 }
 
+#top h1
+{
+    font-weight: normal;
+    font-size: 150px;
+    text-align: center;
+}
+
 .headline 
 {
     padding: 130px 0;
