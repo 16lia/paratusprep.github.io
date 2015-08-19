@@ -5,14 +5,14 @@
  */
 /*start of grafted code*/
 
-a,
+/*a,
 a:hover,
 a:focus,
 a:active,
 a.active {
     outline: 0;
     color: #fff;
-}
+}*/
 @media(min-width:768px) {
     .navbar-fixed-top {
         padding: 25px 0;
