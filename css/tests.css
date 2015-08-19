@@ -9,7 +9,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #000000;
+    color: #fff;
 }
 #topmost
 {
