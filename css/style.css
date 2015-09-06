@@ -5,6 +5,14 @@ Primary style
 -------------------------------- */
 
 
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+    outline: 0;
+    color: #92b9c5;
+}
 
 @media(min-width:768px) {
     .navbar-fixed-top {
@@ -73,11 +81,6 @@ body {
   background-color: #e9f0f5;
 }
 
-a {
-  color: #acb7c0;
-  text-decoration: none;
-  font-family: "Open Sans", sans-serif;
-}
 
 img {
   max-width: 100%;
