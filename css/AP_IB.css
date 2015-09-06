@@ -61,6 +61,33 @@ a.active {
     border: 0;
 }
 /*end of navbar code*/
+#APandIB{
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('http://41.media.tumblr.com/fbf0b0311c6429b91ef54a44d65398ea/tumblr_nt8rsbfAIq1ua3k4qo1_1280.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+#APandIB h1
+{
+    color: #FFFFFF;
+}
+#top1
+{
+    padding: 0px;
+    background-color: #000000;
+}
+#top{
+    float: none;
+    margin: 0 auto;
+    display: table;
+    table-layout: fixed;
+    font-size: 30px;
+
+}
 #AP{
     display: block;
     width: 100%;
@@ -100,6 +127,100 @@ a.active {
     -o-background-size: cover;
 }
 #APvsIB h1
+{
+    color: #FFFFFF;
+}
+#APStudy{
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('https://mrnittle.files.wordpress.com/2014/03/books.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+#APStudy h1
+{
+    color: #FFFFFF;
+}
+#APvsIB h1
+{
+    color: #FFFFFF;
+}
+
+.APinfo
+{
+    font-size: 20px;
+}
+#APStudyLink{
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('http://40.media.tumblr.com/c6a865ae7a88dd25e9dfdc2ed4e4da89/tumblr_nmxioq96sq1ut2kb3o1_1280.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+#APStudyLink h1
+{
+    color: #FFFFFF;
+}
+#APUSH{
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('https://mybonnie.files.wordpress.com/2011/11/washington_crossing_the_delaware_by_emanuel_leutze_mma-nyc_1851.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+#APUSH h1
+{
+    color: #FFFFFF;
+}
+#APBIO{
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('http://wallpaperbeta.com/wallpaper_1680x1050/pattern_biology_flat_microcosm_eyes_view_stuff_1680x1050_hd-wallpaper-204.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+#APBIO h1
+{
+    color: #FFFFFF;
+}
+#APENG{
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('https://lhueagleeye.files.wordpress.com/2014/11/amasai-tumblr-com.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+#APENG h1
+{
+    color: #FFFFFF;
+}
+#APCALC{
+    display: block;
+    width: 1280px;
+    height: 800px;
+    text-align: center;
+    background: url('http://40.media.tumblr.com/3c2aef061acfdfe8455b2c1e6890b86e/tumblr_ndohtseg4P1ti270bo1_1280.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+#APCALC h1
 {
     color: #FFFFFF;
 }
