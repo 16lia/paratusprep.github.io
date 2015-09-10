@@ -224,6 +224,76 @@ a.active {
 {
     color: #FFFFFF;
 }
+#APUSGOV{
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('https://upload.wikimedia.org/wikipedia/commons/b/b2/United_States_Capitol_-_west_front.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+#APUSGOV h1
+{
+    color: #FFFFFF;
+}
+#APPSYCH{
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('http://www.neurobureau.org/wp-content/uploads/2013/03/09.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+#APPSYCH h1
+{
+    color: #FFFFFF;
+}
+#APWH{
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('http://www.sonofthesouth.net/revolutionary-war/maps/old-world-map.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+#APWH h1
+{
+    color: #FFFFFF;
+}
+#APSTAT{
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('https://thefinchandpea.files.wordpress.com/2013/04/mathslide.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+#APSTAT h1
+{
+    color: #FFFFFF;
+}
+#APCHEM{
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('http://static.memrise.com/uploads/course_photos/6012377000140920234713.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+#APCHEM h1
+{
+    color: #FFFFFF;
+}
 body {
     margin-top: 50px; /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
